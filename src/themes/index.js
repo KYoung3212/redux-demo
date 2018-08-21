@@ -1,0 +1,16 @@
+export default {
+    light: {
+        text: 'black-text',
+        nav: 'grey lighten-4',
+        accent: 'grey',
+        main: 'grey lighten-2'
+
+    },
+    dark: {
+        text: 'white-text',
+        nav: 'indigo darken',
+        accent: 'indigo',
+        main: 'indigo accent-1'
+        
+    }
+}
